@@ -9,22 +9,25 @@
     background-position: center;
   }  
 
+  
   .header h1,
   .header .contact-info p {
     color: black;
   }
 
-  .body {
-    position: relative;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('https://www.collegiateparent.com/wp-content/uploads/2020/09/Favorite-Campus-Shot.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }  
+.navigation ul li a {
+    font-size: 24px; 
+  }
+  
 
+  body {
+    background-image: url('https://i.pinimg.com/originals/7e/2f/46/7e2f4621818a497aeb89fd65d1032e75.jpg'), linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8));
+    background-blend-mode: overlay; 
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-position: center center; 
+  }
+  
 
 .bold-text { 
     font-weight: bold; 
