@@ -1,0 +1,19 @@
+.header {
+    position: relative;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('https://media.cntraveler.com/photos/605d000fc5daff308f945a8b/16:9/w_2560%2Cc_limit/493446241');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }  
+
+  .header h1,
+  .header .contact-info p {
+    color: black;
+  }
+
+.bold-text { 
+    font-weight: bold; 
+  }  
