@@ -3,7 +3,7 @@
     color: white;
     text-align: center;
     padding: 20px;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('https://media.cntraveler.com/photos/605d000fc5daff308f945a8b/16:9/w_2560%2Cc_limit/493446241');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('https://cdn.choosechicago.com/uploads/2020/10/CC-northave-beach-aerial-1-1800x1197.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -21,7 +21,7 @@
   
 
   body {
-    background-image: url('https://i.pinimg.com/originals/7e/2f/46/7e2f4621818a497aeb89fd65d1032e75.jpg'), linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8));
+    background-image: url('https://lh6.googleusercontent.com/proxy/NQF-cjpcjymz7yXvcVqoKs5o6BX4lw60lAwMN5QnmQ-Sr_n6XldeDMAhZLBk3kixG2RwkjXnYnjE8_i4ltBj-1UsZ1BBwETzDIRh3OqvtQRFSJnz'), linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8));
     background-blend-mode: overlay; 
     background-size: cover; 
     background-attachment: fixed; 
